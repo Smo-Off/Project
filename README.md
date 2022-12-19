@@ -13,6 +13,7 @@ After reviewing the codebook, I have identified enough relevant data to pursue m
 
 ## Codebook
 I have chosen to use seven variables for my dataset: IDNUM, SEX, AGE, REGION, S4AQ1, S4AQ2, and S4AQ53. I believe this is the best approach given the information I have. However, I am starting to realize that the data is largely qualitative and may not provide any useful insights into my hypothesis. I may consider adding additional variables as I progress through the project in order to extract useful data.
+
 ![image](https://user-images.githubusercontent.com/113482737/208427184-0520f07b-190a-45e3-b134-e62921f64057.png)
 
 ## Literature Review
